@@ -1,0 +1,31 @@
+name: Jakobi
+version: 1.0
+api-version: 1.14
+author: Jakobi
+main: jacob.Multip.Multip
+commands:
+  heal:
+    description: Heals player to max health.
+    usage: /<command>
+    aliases: [healme, healing]
+  feed:
+    description: Feeds player to max saturation.
+    usage: /<command>
+    aliases: [ hungry, saturation, food ]
+  flowerboots:
+    description: Gives the player flower boots
+    usage: /<command>
+    aliases: [flowershoes, fb, dyrad]
+  cloudbottle:
+    description: Gives the player a cloud in a bottle
+    usagee: /<command>
+    aliases: [cloud, doublejump]
+  honeycomb:
+    description: Gives the player a honeycomb
+    usage: /<command>
+  mininghelmet:
+    description: Gives the player a mining helmet
+    usagee: /<command>
+  sporesac:
+    description: Gives the player a spore sac
+    usagee: /<command>
